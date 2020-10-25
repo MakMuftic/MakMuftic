@@ -19,6 +19,8 @@
 - mak@nodefactory.io
 - my [LinkedIn profile](https://www.linkedin.com/in/mak-muftic/)
 
+---
+
 
 [![Mak's github stats](https://github-readme-stats.vercel.app/api?username=MakMuftic&hide=stars&count_private=true&show_icons=true&custom_title=Mak's%20github%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
