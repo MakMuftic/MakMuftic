@@ -16,7 +16,7 @@
 -->
 
 #### 📫 How to reach me: ...
-- mak@nodefactory.io
+- mak@chainsafe.io
 - my [LinkedIn profile](https://www.linkedin.com/in/mak-muftic/)
 
 ---
