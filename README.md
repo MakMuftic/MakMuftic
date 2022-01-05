@@ -1,4 +1,4 @@
-### Hi there everyone, I am software engineer [@NodeFactoryIo](https://nodefactory.io/).
+### Hi there everyone, I am software engineer [@ChainSafe](https://chainsafe.io/).
 
 #### 🔭 I’m currently working on:
 - [Vedran](https://github.com/NodeFactoryIo/vedran) - Loadbalancer for [Polkadot network](https://github.com/paritytech/polkadot) nodes
