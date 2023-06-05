@@ -1,9 +1,11 @@
 ### Hi there everyone, I am software engineer [@ChainSafe](https://chainsafe.io/).
 
+<!--
 #### 🔭 I’m currently working on:
 - [Vedran](https://github.com/NodeFactoryIo/vedran) - Loadbalancer for [Polkadot network](https://github.com/paritytech/polkadot) nodes
 - [FilSnap](https://github.com/NodeFactoryIo/filsnap) - Metamask extension (snap) for [Filecoin](https://filecoin.io/)
 - [Polkadot Snap](https://github.com/NodeFactoryIo/metamask-snap-polkadot) - Metamask extension (snap) for [Polkadot network](https://github.com/paritytech/polkadot) 
+-->
 
 <!--
 #### 🌱 I’m currently learning ...
